@@ -1,0 +1,44 @@
+body
+{
+  text-align: center;
+  font-family: "Press Start 2P", cursive;
+  background-color: #00003F;
+  color: #9B870C;
+}
+
+.red-background
+{
+  background-color: red;
+}
+.row
+{
+  margin: 5% 0;
+}
+.box
+{
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  margin: 0 2.5%;
+  border-radius: 28px;
+}
+
+.green
+{
+  background-color: green;
+}
+
+.red
+{
+  background-color: red;
+}
+
+.yellow
+{
+  background-color: yellow;
+}
+
+.blue
+{
+  background-color: blue;
+}
